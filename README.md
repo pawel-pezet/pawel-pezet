@@ -4,7 +4,7 @@ I am expanding my knowledge in system administration and computer network config
 
 ## Objective
 
-I would like to acquire the knowledge necessary to secure my first job in computer systems or network administration. In the future, I aim to transition into cybersecurity, specifically targeting a role in a Security Operations Center (SOC) as a Tier 1 Analyst.
+I would like to acquire the knowledge necessary to secure my first job as system administrator. In the future, I aim to transition into cybersecurity, specifically targeting a role in a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
