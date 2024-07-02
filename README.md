@@ -24,7 +24,7 @@ I would like to acquire the knowledge necessary to secure my first job in comput
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-GNS3-000000?&style=for-the-badge&logo=GNS3&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Packet%20Tracer-0176C2?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
